@@ -38,7 +38,7 @@ For example, in my environment, I set the script's variables like this:
 
 ````
 SCH_ORG=globex               
-SCH_URL=https://sch.onefoursix.com:18631                
+SCH_URL=https://cloud.streamsets.com                
 SCH_USER=mark@globex              
 SCH_PASSWORD=<redacted>          
 KUBE_NAMESPACE=ns1 
